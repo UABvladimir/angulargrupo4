@@ -16,4 +16,4 @@ Erik Vladimir Huallpa Aruquipa
 D. Alejandro Guzman Lozano
 
 ## Deploy: 
-https://alejandro8608.github.io/
+https://alejandro8608.github.io/angulargrupo4
