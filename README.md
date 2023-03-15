@@ -16,4 +16,4 @@ Erik Vladimir Huallpa Aruquipa
 D. Alejandro Guzman Lozano
 
 ## Deploy: 
-https://reynelvillca.github.io/juego/
+https://alejandro8608.github.io/
